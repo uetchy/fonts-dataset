@@ -1,0 +1,6 @@
+[submodule "third_party/opentype_svg"]
+	path = third_party/opentype_svg
+	url = https://github.com/adobe-type-tools/opentype-svg
+[submodule "third_party/gftools"]
+	path = third_party/gftools
+	url = https://github.com/googlefonts/gftools
