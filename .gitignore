@@ -1,5 +1,7 @@
 .vscode
-fonts_dataset/data
+/src/data
+.DS_Store
+/tmp
 
 # Created by https://www.gitignore.io/api/python
 # Edit at https://www.gitignore.io/?templates=python
